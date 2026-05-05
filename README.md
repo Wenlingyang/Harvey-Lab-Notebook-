@@ -1,2 +1,2 @@
-# Harvey-Lab-Notebook-
+# Harvey-Lab-Notebook
 Lab Notebook Online Record
